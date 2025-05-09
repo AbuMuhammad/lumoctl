@@ -27,9 +27,9 @@
 
 ## Example Use Case
 
-- Switch 1 (porch): ON from *maghrib* to 10 minutes before *syuruq*.
+- Switch 1 (porch): ON from *maghrib* (sunset) to 10 minutes before *syuruq* (sunrise).
 - Switch 2 (backyard): ON from 20 minutes before *maghrib* to 10 minutes after *syuruq*.
-- Switch 3 (window): ON from 20 minutes after *maghrib* to 10 minutes after *fajr*.
+- Switch 3 (window): ON from 20 minutes after *maghrib* to 10 minutes after *fajr* (time for the Fajr prayer).
 
 ## Status
 
