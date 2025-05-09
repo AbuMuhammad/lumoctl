@@ -1,0 +1,9 @@
+[package]
+name = "lumoctl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+diesel = { version = "1.4.5", features = ["mysql", "chrono"] }
+dotenv = "0.15.0"
+chrono = {version = "0.4"}
