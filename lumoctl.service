@@ -1,0 +1,10 @@
+[Unit]
+Description=lumoctl
+After=mysql.service
+
+[Service]
+ExecStart=/path/to/dir/app
+WorkingDirectory=/path/to/dir
+
+[Install]
+WantedBy=multi-user.target
